@@ -1,0 +1,23 @@
+.main-section {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(135deg, #f4f7fb, #e9eef5);
+  padding: 20px;
+}
+
+.webConst {
+  font-size: 2rem;
+  font-weight: 600;
+  color: #2f4858;
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.85);
+  padding: 30px 50px;
+  border-radius: 16px;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.08);
+  letter-spacing: 0.5px;
+  line-height: 1.6;
+  max-width: 700px;
+  width: 100%;
+}
