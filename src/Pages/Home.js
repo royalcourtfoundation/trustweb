@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <>
       <section className='main-section'>
-        <div className='webConst'> The Website is under construstion.....</div>
+        <div className='webConst'> The Website is under construction...</div>
       </section>
     </>
   )
